@@ -1,2 +1,2 @@
 I want to keep this sentence only.
-Finish merging.
+Create a third conflict.
